@@ -20,7 +20,7 @@ function navbar() {
   ];
 
   return (
-    <nav className="relative">
+    <nav className="relative z-100">
       <div className="flex justify-between items-center p-4 border-b-[1px] border-neutral-900 ">
         <div className="text-3xl font-bold">
           <p>nexflow</p>
